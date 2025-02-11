@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly_express as px
 
 st.title("Would you survive the Titanic disaster?")
 
